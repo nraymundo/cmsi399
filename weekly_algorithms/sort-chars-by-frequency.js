@@ -26,3 +26,7 @@ var frequencySort = function (s) {
   }
   return result;
 };
+
+// Sources:
+//    https://stackoverflow.com/questions/19480916/count-number-of-occurrences-for-each-char-in-a-string
+//    https://stackoverflow.com/questions/1069666/sorting-object-property-by-values
